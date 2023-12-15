@@ -25,3 +25,7 @@ console.log(imageUrls.join('\n'));
 ```
 
 # download.js 안에 내용을 복사하여 console 붙여넣으면 전체 이미지 주소가 일괄적으로 나타난다
+
+![image](https://github.com/sonahyeonn/all-images/assets/147791395/d9a575d8-a06e-42c6-9c77-356eb36ef45f)
+
+
