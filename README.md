@@ -28,3 +28,6 @@ console.log(imageUrls.join('\n'));
 
 # url 주소 이미지 대량 다운 받기
 ![image](https://github.com/sonahyeonn/all-images/assets/147791395/a35002ca-d8cb-4557-b6a5-0c8ca7020f77)
+
+# vscode에서 적용하는 법
+![image](https://github.com/sonahyeonn/all-images/assets/147791395/ecb5cf4e-2fca-46e7-b275-c11c5a748bb0)
