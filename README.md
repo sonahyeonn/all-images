@@ -16,5 +16,12 @@ var har =
 # 객체가 har이라는 변수에 할당되었고 그 아래에
 
 ```
+var imageUrls = [];
+har.log.entries.forEach(function (entry) {
+  if (entry.response.content.mimeType.indexOf("image/") !== 0) return;
+  imageUrls.push(entry.request.url);
+});
+console.log(imageUrls.join('\n'));
+```
 
 # download.js 안에 내용을 복사하여 console 붙여넣으면 전체 이미지 주소가 일괄적으로 나타난다
